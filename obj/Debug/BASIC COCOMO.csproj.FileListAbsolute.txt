@@ -1,0 +1,10 @@
+C:\Users\Safwat\source\repos\BASIC COCOMO\bin\Debug\BASIC COCOMO.exe.config
+C:\Users\Safwat\source\repos\BASIC COCOMO\bin\Debug\BASIC COCOMO.exe
+C:\Users\Safwat\source\repos\BASIC COCOMO\bin\Debug\BASIC COCOMO.pdb
+C:\Users\Safwat\source\repos\BASIC COCOMO\obj\Debug\BASIC COCOMO.csproj.AssemblyReference.cache
+C:\Users\Safwat\source\repos\BASIC COCOMO\obj\Debug\BASIC_COCOMO.Form1.resources
+C:\Users\Safwat\source\repos\BASIC COCOMO\obj\Debug\BASIC_COCOMO.Properties.Resources.resources
+C:\Users\Safwat\source\repos\BASIC COCOMO\obj\Debug\BASIC COCOMO.csproj.GenerateResource.cache
+C:\Users\Safwat\source\repos\BASIC COCOMO\obj\Debug\BASIC COCOMO.csproj.CoreCompileInputs.cache
+C:\Users\Safwat\source\repos\BASIC COCOMO\obj\Debug\BASIC COCOMO.exe
+C:\Users\Safwat\source\repos\BASIC COCOMO\obj\Debug\BASIC COCOMO.pdb
